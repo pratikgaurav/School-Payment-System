@@ -1,0 +1,281 @@
+﻿body {
+    background-color: white;
+}
+
+.first {
+    width: 100%;
+    height: 95px;
+    background-color: #c0392b;
+}
+
+.second {
+    width: 100%;
+    height: auto;
+    min-height: 100%;
+    background-color: #ecf0f1;
+    float: left;
+}
+
+.third {
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+#box1 {
+    float: left;
+    width: 12%;
+    height: 25px;
+    padding-top: 8px;
+}
+
+#box2 {
+    float: left;
+    width: 10%;
+    height: 100px;
+    padding-top: 8px;
+}
+
+#box3 {
+    float: left;
+    width: 8%;
+    height: 100px;
+    padding-top: 8px;
+}
+
+#box4 {
+    float: left;
+    width: 40%;
+    height: 100px;
+}
+
+#box5 {
+    float: left;
+    width: 15%;
+    height: 100px;
+}
+
+#box6 {
+    float: left;
+    width: 15%;
+    height: 100px;
+}
+
+#box7 {
+    float: left;
+    width: 100%;
+    margin: auto;
+}
+
+.fp {
+    text-align: center;
+    color: black;
+    font-weight: normal;
+    font-size: 20px;
+    height: 2;
+}
+
+.fp1 {
+    text-align: center;
+    color: black;
+    font-weight: normal;
+    font-size: 20px;
+    height: 2;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    float: left;
+    padding-left: 30px;
+    cursor: pointer;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 350px;
+}
+
+    .dropdown-content a {
+        color: black;
+        padding: 4px 4px;
+        text-decoration: none;
+        display: block;
+        font-size: 18px;
+    }
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.main {
+    text-align: center;
+    color: black;
+    font-size: 28px;
+    width: 72%;
+    margin-left: 75px;
+}
+
+.main1 {
+    text-align: center;
+    font-size: 45px;
+    width: 72%;
+    margin: auto;
+    padding-top: 20px;
+    text-align: justify;
+}
+
+#three {
+    width: 50%;
+    height: 370px;
+    background-color: #d35400;
+    float: left;
+}
+
+.button1 {
+    background-color: #8e44ad;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 24px 25px;
+    cursor: pointer
+}
+
+.button2 {
+    background-color: #8e44ad;
+    border: none;
+    color: white;
+    padding: 15px 55px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 24px 25px;
+    cursor: pointer
+}
+
+.circle {
+    float: left;
+    Width: 9%;
+    height: 25;
+    background-color: orange;
+    border-radius: 50%;
+    color: purple;
+    text-align: center;
+    padding: 12px;
+    margin-top: 15px;
+    margin-left: 75px;
+}
+
+.circle1 {
+    float: left;
+    Width: 4%;
+    height: 25;
+    background-color: orange;
+    border-radius: 50%;
+    color: purple;
+    text-align: center;
+    padding: 12px;
+    margin-top: 15px;
+    margin-left: 75px;
+}
+
+#pdflink {
+    padding-left: 20px;
+}
+
+#points {
+    padding-left: 20px;
+    text-align: justify;
+}
+
+.q1 {
+    font-size: 24px;
+    color: #3498db;
+    line-height: 10px;
+}
+
+.q2 {
+    font-size: 22px;
+    color: #3498db;
+    line-height: 10px;
+}
+
+.a1 {
+    font-size: 16px;
+    color: #3498db;
+    padding-right: 20px;
+}
+
+.a2 {
+    font-size: 16px;
+    color: #2c3e50;
+    padding-right: 20px;
+}
+
+.text {
+    text-align: center;
+    color: purple;
+    font-family: "Arial Black";
+    font-size: 20px;
+}
+
+.staff {
+    color: #2c3e50;
+    padding-left: 20px;
+}
+
+#link1 {
+    padding-left: 20px;
+}
+
+#form1 {
+    padding-left: 20px;
+    width: 100%;
+}
+
+.bigb {
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+
+#leftb {
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+#rightb {
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+.x {
+    padding-left: 20px;
+    font-size: 20px;
+    color: darkblue;
+}
+
+#y {
+    padding-left: 20px;
+    color: blue;
+    font-size: 18px;
+}
+
+#z {
+    padding-left: 20px;
+    font-size: 14px;
+}
+
+#m {
+    padding-left: 20px;
+    color: red;
+    font-size: 18px;
+}

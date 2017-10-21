@@ -1,0 +1,181 @@
+﻿body {
+    background-color: white;
+}
+
+.first {
+    width: 100%;
+    height: 95px;
+    background-color: #c0392b;
+}
+
+#box1 {
+    float: left;
+    width: 12%;
+    height: 25px;
+    padding-top: 8px;
+}
+
+#box2 {
+    float: left;
+    width: 10%;
+    height: 100px;
+    padding-top: 8px;
+}
+
+#box3 {
+    float: left;
+    width: 8%;
+    height: 100px;
+    padding-top: 8px;
+}
+
+#box4 {
+    float: left;
+    width: 40%;
+    height: 100px;
+}
+
+#box5 {
+    float: left;
+    width: 15%;
+    height: 100px;
+}
+
+#box6 {
+    float: left;
+    width: 15%;
+    height: 100px;
+}
+
+.fp {
+    text-align: center;
+    color: black;
+    font-weight: normal;
+    font-size: 20px;
+    height: 2;
+}
+
+.fp1 {
+    text-align: center;
+    color: black;
+    font-weight: normal;
+    font-size: 20px;
+    height: 2;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    float: left;
+    padding-left: 30px;
+    cursor: pointer;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 350px;
+}
+
+    .dropdown-content a {
+        color: black;
+        padding: 4px 4px;
+        text-decoration: none;
+        display: block;
+        font-size: 18px;
+    }
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.main {
+    text-align: center;
+    color: white;
+    font-size: 28px;
+    width: 72%;
+    margin-left: 75px;
+}
+
+.button1 {
+    background-color: #8e44ad;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 24px 25px;
+    cursor: pointer
+}
+
+.button2 {
+    background-color: #8e44ad;
+    border: none;
+    color: white;
+    padding: 15px 55px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 24px 25px;
+    cursor: pointer
+}
+
+.circle {
+    float: left;
+    Width: 9%;
+    height: 25;
+    background-color: orange;
+    border-radius: 50%;
+    color: purple;
+    text-align: center;
+    padding: 12px;
+    margin-top: 15px;
+    margin-left: 75px;
+}
+
+.text {
+    text-align: center;
+    color: purple;
+    font-family: "Arial Black";
+    font-size: 20px;
+}
+
+.centerbox {
+    border-radius: 10px;
+    border:solid 1px #95a5a6;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+form {
+  /* Just to center the form on the page */
+  margin: 0 auto;
+  width: 400px;
+  /* To see the outline of the form */
+  padding: 1em;
+  border: 5px solid #CCC;
+  border-radius: 1em;
+}
+
+button{
+    background-color: #2980B9; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius:10px;
+}
+
+h3{
+    font-family:'1942 report';
+    font-size:30px;
+    color:#2c3e50;
+}
