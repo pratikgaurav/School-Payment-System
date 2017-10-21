@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+  <Ad>
+    <ImageUrl>1.png</ImageUrl>
+    <NavigateUrl>http://www.barnesandnoble.com/</NavigateUrl>
+    <AlternateText>Ad for Contoso, Ltd. Web site</AlternateText>
+    <Impressions>10</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>2.jpg</ImageUrl>
+    <NavigateUrl>http://www.baylor.edu/</NavigateUrl>
+    <AlternateText>Ad for Contoso, Ltd. Web site</AlternateText>
+    <Impressions>10</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>3.jpg</ImageUrl>
+    <NavigateUrl>http://https://www.bankofamerica.com/</NavigateUrl>
+    <AlternateText>Ad for ASP.NET Web site</AlternateText>
+    <Impressions>5</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>4.png</ImageUrl>
+    <NavigateUrl>http://www.chase.com/</NavigateUrl>
+    <AlternateText>Ad for ASP.NET Web site</AlternateText>
+    <Impressions>5</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>5.png</ImageUrl>
+    <NavigateUrl>http://wwww.discover.com/</NavigateUrl>
+    <AlternateText>Ad for ASP.NET Web site</AlternateText>
+    <Impressions>5</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>6.png</ImageUrl>
+    <NavigateUrl>http://www.harvard.edu/</NavigateUrl>
+    <AlternateText>Ad for ASP.NET Web site</AlternateText>
+    <Impressions>5</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>7.jpg</ImageUrl>
+    <NavigateUrl>http://www.rice.edu/</NavigateUrl>
+    <AlternateText>Ad for ASP.NET Web site</AlternateText>
+    <Impressions>5</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>8.png</ImageUrl>
+    <NavigateUrl>http://www.selfscore.com/</NavigateUrl>
+    <AlternateText>Ad for ASP.NET Web site</AlternateText>
+    <Impressions>5</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>9.png</ImageUrl>
+    <NavigateUrl>http://www.uhcl.edu/</NavigateUrl>
+    <AlternateText>Ad for ASP.NET Web site</AlternateText>
+    <Impressions>5</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>10.jpg</ImageUrl>
+    <NavigateUrl>http://www.w3schools.com/</NavigateUrl>
+    <AlternateText>Ad for ASP.NET Web site</AlternateText>
+    <Impressions>5</Impressions>
+  </Ad>
+
+
+</Advertisements>
